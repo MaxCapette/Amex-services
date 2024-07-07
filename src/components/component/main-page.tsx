@@ -277,7 +277,7 @@ export function MainPage() {
           <div className=" mx-auto px-4 md:px-6 flex flex-col md:flex-column items-center justify-between">
           <p className="  mt-4 ">19 RUE DU MUSÉE</p>
           <p className="   ">13001 MARSEILLE</p>
-          <p className="  mt-4 ">contact@amex-services.fr</p>
+          <p className="  mt-4 ">contact@amexservices.fr</p>
 
           <p className="  mt-4 ">TEL: 04 84 89 63 48</p>
           </div>
