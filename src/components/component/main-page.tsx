@@ -279,7 +279,7 @@ export function MainPage() {
           <p className="   ">13001 MARSEILLE</p>
           <p className="  mt-4 ">contact@amexservices.fr</p>
 
-          <p className="  mt-4 ">TEL: 04 84 89 63 48</p>
+          <p className="  mt-4 ">TEL: 04 84 89 63 50</p>
           </div>
       </footer>
     </div>
